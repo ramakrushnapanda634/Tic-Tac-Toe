@@ -1,6 +1,6 @@
 <h1>Tic-Tac-Toe<h1>
   
-This tic-tac-toe game is fully mobile friendly build using Advanced JavaScript, Html, Css.
+  <p>This tic-tac-toe game is fully mobile friendly build using Advanced JavaScript, Html, Css.</p>
   
   <h1>tic-tac-toe-js</h1>
 

@@ -9,4 +9,5 @@ Basic tic tac toe using javascript
   <h1>About game</h1>
 
 2 player X & O, by default, when any square is clicked X is marked and then player O and so on. This is human vs human, which can be played by 2 person or single person. The result is displaying after if the match draw and if the match won by any of the player, the winner is displayed.
-<img src=""/>
+<img  align="center" src="https://www.linkpicture.com/q/Screenshot-46_4.png"/>
+  
